@@ -7781,17 +7781,17 @@ jsesc@~0.5.0:
   resolved "https://registry.yarnpkg.com/jsesc/-/jsesc-0.5.0.tgz#e7dee66e35d6fc16f710fe91d5cf69f70f08911d"
   integrity sha1-597mbjXW/Bb3EP6R1c9p9w8IkR0=
 
-jsii-diff@^1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/jsii-diff/-/jsii-diff-1.1.0.tgz#2a444b4b54484f58c3351e555754638cae0adbfc"
-  integrity sha512-akrnN0fuZmUA254WAWBc1YtPSe+FRW3CcZwmr/M5sl20uGkYl36PmDW5iZMnXVcPSMySmVV3VjJDdFDXGTnzRg==
+jsii-diff@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/jsii-diff/-/jsii-diff-1.2.0.tgz#03ec18c04c2130cc1b0c31e2354e65a5afe6b38c"
+  integrity sha512-ls1JVrWIfYE4ADdxLcOCkQXytRmKpRZZVHTs09N6Amq30CI64mz0m7YY3TUdBS91g07mBaJw7afwMbsxG5DevQ==
   dependencies:
-    "@jsii/spec" "^1.1.0"
-    fs-extra "^8.1.0"
-    jsii-reflect "^1.1.0"
+    "@jsii/spec" "^1.2.0"
+    fs-extra "^9.0.0"
+    jsii-reflect "^1.2.0"
     log4js "^6.1.2"
     typescript "~3.8.3"
-    yargs "^15.3.0"
+    yargs "^15.3.1"
 
 jsii-pacmak@^1.1.0:
   version "1.1.0"
@@ -7812,16 +7812,16 @@ jsii-pacmak@^1.1.0:
     xmlbuilder "^15.0.0"
     yargs "^15.3.0"
 
-jsii-reflect@^1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/jsii-reflect/-/jsii-reflect-1.1.0.tgz#5f013e2d90f8d97299402e14355bb666b1147084"
-  integrity sha512-/Ik0DKL/PhS5LDbwY4GrgaVIulc2SPqJAIuLJVwGeEQgBqj9kgPto0Huh5icMw3WK4+qwp/B/WCPbYivnkjF+w==
+jsii-reflect@^1.1.0, jsii-reflect@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/jsii-reflect/-/jsii-reflect-1.2.0.tgz#dba2dec42267e874093d2c3f52dc1376b0c6da62"
+  integrity sha512-55Q2gfgilmrWsfWdgzZzEDJ9X5aEMUK8ixritn7oAK/tiI9UwXibn+tAvnAyo/OD+UA0r4hRASAF7FvRjAmX9Q==
   dependencies:
-    "@jsii/spec" "^1.1.0"
+    "@jsii/spec" "^1.2.0"
     colors "^1.4.0"
-    fs-extra "^8.1.0"
-    oo-ascii-tree "^1.1.0"
-    yargs "^15.3.0"
+    fs-extra "^9.0.0"
+    oo-ascii-tree "^1.2.0"
+    yargs "^15.3.1"
 
 jsii-rosetta@^1.1.0, jsii-rosetta@^1.2.0:
   version "1.2.0"
@@ -9222,10 +9222,10 @@ onetime@^5.1.0:
   dependencies:
     mimic-fn "^2.1.0"
 
-oo-ascii-tree@^1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/oo-ascii-tree/-/oo-ascii-tree-1.1.0.tgz#e5bc65db665cfb0d6e4fc750620f7d6c11bc2702"
-  integrity sha512-GAmkryQIl44INfzyAHEnVSPzG1T2PTG8S+F1BvTvoW3Cr3pbDaPljW4prV6y1hg7YZ4isEI1dcoIQ7k4gyVKeA==
+oo-ascii-tree@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/oo-ascii-tree/-/oo-ascii-tree-1.2.0.tgz#8e9a8891d648e0fbc3aa79dda1cb38d5fc4f0b61"
+  integrity sha512-F96XM+6CrSQcCvEXX9l92h7RblmvN4FeL3VsNABLr9W6D9ZQ1m7JeA4eRdKj/kFlJ9SebAIZsX1nZAcWXyNVjQ==
 
 opener@^1.5.1:
   version "1.5.1"
